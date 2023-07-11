@@ -12,9 +12,9 @@ The intention of creating this is to better understand the Angular framework, an
 
 ### **Very simple local setup instructions**
 
-1. clone down project to local directory by running `git clone https://github.com/austinschroeder/angular-learn.git`
-2. install dependecies by running `npm i`
-3. recomended using node `v14.20`, `v16.14` or `v18.10` (according to Angular docs)
+1. Clone down project to local directory by running `git clone https://github.com/austinschroeder/angular-learn.git`
+2. Install dependecies by running `npm i`
+3. Recomended using node `v14.20`, `v16.14` or `v18.10` (according to Angular docs)
 
 ## Development server
 
