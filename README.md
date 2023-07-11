@@ -13,7 +13,8 @@ This project uses:
 - Easy tracking of tasks with changeable reminder indicators.
 - Persistent data across page refreshes.
 
-![](images/screenshot.png)
+<!-- ![](images/screenshot.png) -->
+<img src="images/screenshot.png" width="400" height="600">
 
 ## Installation and Setup
 
