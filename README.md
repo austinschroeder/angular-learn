@@ -1,4 +1,4 @@
-# AngularLearn
+# Task-Tracker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.<br><br>
 The intention of creating this is to better understand the Angular framework, and immerse myself with commonly used methodologies and practices.
