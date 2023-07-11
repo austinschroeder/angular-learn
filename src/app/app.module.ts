@@ -35,7 +35,7 @@ const appRoutes: Routes = [
     FontAwesomeModule,
     HttpClientModule,
     FormsModule,
-    RouterModule.forRoot(appRoutes, {enableTracing: true}),
+    RouterModule.forRoot(appRoutes, /*{enableTracing: true}*/),
   ],
   providers: [],
   bootstrap: [AppComponent]
