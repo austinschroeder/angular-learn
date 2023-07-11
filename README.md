@@ -4,14 +4,14 @@ Task-Tracker is a simple, yet powerful project designed to help you keep track o
 
 This project uses:
 
-- **CRUD operations** with a locally setup backend using JSON-server.
-- **Angular Router** for smooth page transitions.
-- Styling and icons from **fortawesom/angular-font-awesome v6** for a modern UI.
+- **CRUD operations** with a locally setup backend using JSON-server
+- **Angular Router** for smooth page transitions
+- Styling and icons from **fortawesom/angular-font-awesome v6** for a modern UI
 
 **Features:**
 
-- Easy tracking of tasks with changeable reminder indicators.
-- Persistent data across page refreshes.
+- Easy tracking of tasks with changeable reminder indicators
+- Persistent data across page refreshes
 
 <!-- ![](images/screenshot.png) -->
 <img src="images/screenshot.png" width="400" height="600">
@@ -26,11 +26,11 @@ Follow these steps to get Task-Tracker up and running on your machine:
 
 ## Running Locally
 
-- Run `npm run server` for a local data server.
-- (In a seperate terminal) Run `ng serve` to spin up the local environment.
-- Navigate to `http://localhost:4200/` to interact with the app.
+- Run `npm run server` for a local data server
+- (In a seperate terminal) Run `ng serve` to spin up the local environment
+- Navigate to `http://localhost:4200/` to interact with the app
 
-_Note: Double click on tasks to change the reminder indicator._
+_Note: Double click on tasks to change the reminder indicator_
 
 ## Contributing
 
