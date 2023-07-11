@@ -5,7 +5,7 @@ Task-Tracker is a simple, yet powerful project designed to help you keep track o
 This project uses:
 
 - **CRUD operations** with a locally setup backend using JSON-server.
-- The **Angular Router** for smooth page transitions.
+- **Angular Router** for smooth page transitions.
 - Styling and icons from **fortawesom/angular-font-awesome v6** for a modern UI.
 
 **Features:**
