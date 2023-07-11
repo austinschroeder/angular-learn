@@ -8,9 +8,11 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  background-color: rgba(5, 3, 23, 0.637);
 }
 
 .container {
+  background-color: #fff;
   max-width: 500px;
   margin: 30px auto;
   overflow: auto;

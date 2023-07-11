@@ -25,3 +25,5 @@ The intention of creating this is to better understand the Angular framework, an
 •Navigate to `http://localhost:4200/` to interact with the app
 <br>
 (Notice that data will persist on page refresh)
+<br>
+-Double click on tasks to change the reminder indicator
