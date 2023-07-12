@@ -13,6 +13,8 @@ This project uses:
 - Easy tracking of tasks with changeable reminder indicators.
 - Persistent data across page refreshes.
 
+_Note: Click on tasks to change the reminder indicator. This is turn changes a boolean value within the JSON object for each reminder for persistence. (cr\*U\*\*d)_
+
 <!-- ![](images/screenshot.png) -->
 <img src="images/screenshot.png" width="400" height="600">
 
@@ -21,16 +23,16 @@ This project uses:
 Follow these steps to get Task-Tracker up and running on your machine:
 
 1. Clone the project to your local directory by running `git clone https://github.com/austinschroeder/angular-learn.git`
-2. Install dependencies by running `npm i`
-3. The project works best with Node versions `v14.20`, `v16.14`, or `v18.10` (as per the Angular docs)
+2. Install Angular if not currently installed `npm install -g @angular/cli`
+3. Angular works best with Node versions `v14.20`, `v16.14`, or `v18.10` (as per the Angular docs) To verify node version run `node -v`
+4. If a node version change is necessary, can easily be done using nvm by running `nvm install <version>` and `nvm use <version>`
+5. Install dependencies by running `npm i`
 
 ## Running Locally
 
 - Run `npm run server` for a local data server.
 - Run `ng serve` to spin up the local environment.
 - Navigate to `http://localhost:4200/` to interact with the app.
-
-_Note: Double click on tasks to change the reminder indicator._
 
 ## Contributing
 

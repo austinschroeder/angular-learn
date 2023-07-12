@@ -14,3 +14,16 @@
   align-items: center;
   justify-content: space-between;
 }
+
+.delete-btn {
+  /* transition: transform 0.3s ease-in-out; */
+  margin: 0;
+  padding: 0;
+}
+
+.delete-btn {
+  :hover {
+    /* transform: scale(1.2); */
+    color: rgb(255, 0, 0);
+  }
+}
