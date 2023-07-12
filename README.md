@@ -34,11 +34,6 @@ Follow these steps to get Task-Tracker up and running on your machine:
 - (In a seperate terminal) Run `ng serve` to spin up the local environment
 - Navigate to `http://localhost:4200/` to interact with the app
 
-<<<<<<< HEAD
-=======
-_Note: Double click on tasks to change the reminder indicator_
-
->>>>>>> 9c1afa73443cd2899613b1910f4c38a109428612
 ## Contributing
 
 While this project is mainly for my learning, I'm open to suggestions and contributions. Feel free to raise issues or make pull requests.
