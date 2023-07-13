@@ -30,8 +30,7 @@ Follow these steps to get Task-Tracker up and running on your machine:
 
 ## Running Locally
 
-- Run `npm run server` for a local data server
-- (In a seperate terminal) Run `ng serve` to spin up the local environment
+- Run `npm start` to concurrently spin up the local db server as well as start the Angular app
 - Navigate to `http://localhost:4200/` to interact with the app
 
 ## Contributing

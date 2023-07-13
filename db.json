@@ -10,7 +10,13 @@
       "id": 2,
       "text": "Meeting at School",
       "day": "May 6th at 1:30pm",
-      "reminder": true
+      "reminder": false
+    },
+    {
+      "text": "Job Interview",
+      "day": "May 7th at 10:100am",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
